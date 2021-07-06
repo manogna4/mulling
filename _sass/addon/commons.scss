@@ -50,7 +50,7 @@ body {
   background: var(--body-bg);
   color: var(--text-color);
   -webkit-font-smoothing: antialiased;
-  font-family: 'Source Sans Pro', 'Microsoft Yahei', sans-serif;
+  font-family: 'Segoe UI','Source Sans Pro', 'Microsoft Yahei', sans-serif;
 }
 
 /* --- Typography --- */
@@ -665,7 +665,7 @@ $sidebar-display: "sidebar-display";
 
   .site-title {
     a {
-      font-weight: 900;
+      font-weight: 500;
       font-size: 1.5rem;
       letter-spacing: 0.5px;
     }

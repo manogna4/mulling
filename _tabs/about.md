@@ -1,8 +1,13 @@
 ---
 title: About
 icon: fas fa-info
-order: 4
+order: 1
 ---
 
+Hi, I am Mano.
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+You've found my corner of the internet.
+
+I am addicted to mulling. Some of it makes it to this blog.
+
+You may get in touch with me at (manogna[jalebi symbol][google's email].com).
